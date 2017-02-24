@@ -1,5 +1,7 @@
 # DSIOT-FP-RemoteMonitoring
 
+## Welcome
+
 This repository includes the information and data related to the **Remote Monitoring Foundation Project** from the **Data Science for IoT Futuretext** course.
 
 The project uses poximity sensors in different rooms to monitor activity of elderly people at home. We want to use the data from all the sensors to know the approximate location of the users and their state of activity. We also want to learn from their usual behaviour and use event pattern recognition to better infer the activities of the users and to detect anomalies so we can raise warns.
@@ -14,3 +16,9 @@ To participate you must provide experience in at least one of:
 - complex event processing
 - location from BLE sensors
 - R/Python programming (R is preferred)
+
+## News
+
+You can access the project data in the [Data](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Data) folder.
+
+Added a Shiny App to help quickly plot and explore the data. Run server.R in RStudio.  [EDA App](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Apps/EDA)

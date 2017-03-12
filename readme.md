@@ -28,12 +28,12 @@ Added the filtered rssi (output from KalmanFilter.R) as filtered_rssi_data.RDS i
 Added a Shiny App to help visualize filtered data. Run server.R in Rstudio. [Filtered Data App](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Apps/FileteredData)
 
 
-2017-03-04
+_2017-03-04_
 
 Added [ProjectOutline.pdf](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/blob/master/ProjectOutline.pdf)
 
 
-2017-02-24
+_2017-02-24_
 
 You can access the project data in the [Data](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Data) folder.
 

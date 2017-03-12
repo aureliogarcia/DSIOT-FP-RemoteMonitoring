@@ -19,7 +19,7 @@ To participate you must provide experience in at least one of:
 
 ## News
 
-2017-03-12
+_2017-03-12_
 
 Added code for the Kalman filter. [KalmanFilter.R](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/blob/master/Code/KalmanFilter.R)
 

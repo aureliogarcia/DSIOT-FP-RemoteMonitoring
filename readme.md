@@ -19,6 +19,23 @@ To participate you must provide experience in at least one of:
 
 ## News
 
+2017-03-12
+
+Added code for the Kalman filter. [KalmanFilter.R](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/blob/master/Code/KalmanFilter.R)
+
+Added a Shiny App to help visualize filtered data. Run server.R in Rstudio. [Filtered Data App](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Apps/FileteredData)
+
+
+2017-03-04
+
+Added [ProjectOutline.pdf](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/blob/master/ProjectOutline.pdf)
+
+
+2017-02-24
+
 You can access the project data in the [Data](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Data) folder.
 
 Added a Shiny App to help quickly plot and explore the data. Run server.R in RStudio.  [EDA App](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Apps/EDA)
+
+
+

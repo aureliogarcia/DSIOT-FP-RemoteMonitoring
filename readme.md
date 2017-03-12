@@ -23,6 +23,8 @@ To participate you must provide experience in at least one of:
 
 Added code for the Kalman filter. [KalmanFilter.R](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/blob/master/Code/KalmanFilter.R)
 
+Added the filtered rssi (output from KalmanFilter.R) as filtered_rssi_data.RDS in [Data](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Data) folder.
+
 Added a Shiny App to help visualize filtered data. Run server.R in Rstudio. [Filtered Data App](https://github.com/aureliogarcia/DSIOT-FP-RemoteMonitoring/tree/master/Apps/FileteredData)
 
 
